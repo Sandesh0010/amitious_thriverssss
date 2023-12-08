@@ -138,3 +138,32 @@ C:\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.cspro
 C:\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.csproj.CoreCompileInputs.cache
 C:\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.exe
 C:\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.pdb
+C:\hack final\guide your career\hackathon\hackathonproject\bin\Debug\hackathonproject.exe.config
+C:\hack final\guide your career\hackathon\hackathonproject\bin\Debug\hackathonproject.exe
+C:\hack final\guide your career\hackathon\hackathonproject\bin\Debug\hackathonproject.pdb
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.csproj.AssemblyReference.cache
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.bba2.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.bim3.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.Form1.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.Form10.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.Form2.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.Quizcat.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.sciencepage1.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.technology_1.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.BIT1.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.BIT3.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.bim1.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.bim2.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.General_Knowledge_Page_2.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.it2.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.management1.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.management2.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.Properties.Resources.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.prev1.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.Science1.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.science2.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.sub.resources
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.csproj.GenerateResource.cache
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.csproj.CoreCompileInputs.cache
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.exe
+C:\hack final\guide your career\hackathon\hackathonproject\obj\Debug\hackathonproject.pdb
